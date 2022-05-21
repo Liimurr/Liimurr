@@ -11,6 +11,7 @@ _______
 # Links
 _______
 Blog: https://liimurr.com/
+LinkedIn: https://www.linkedin.com/in/liammmurray
 
 <!---
 Liimurr/Liimurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
